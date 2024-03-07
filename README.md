@@ -5,7 +5,7 @@
 </div>
 <div>
   <img align="left" src="https://github.com/rodrigomolter/rodrigomolter/assets/57466763/7e21bd81-3126-4da4-a6e7-23fcf0399443" width="150px"> 
-  <p>I'm <strong>Rodrigo</strong>, a professional passionate about the journey of software development and quality! With a solid experience in development, I recently embraced the exciting transition to the field of Software Quality.</p>
+  <p>I'm <strong>Rodrigo</strong>, a professional passionate about the journey of software quality! With a solid experience in development, I recently embraced the exciting transition to the field of Quality Assurance.</p>
   <p>
     With experience in test automation and familiarity with agile methodologies, I am ready to tackle challenges and grow alongside your team. If you're seeking a committed professional passionate about continuous learning, I'm ready to contribute! 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" align="center"/>
