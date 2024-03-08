@@ -26,8 +26,8 @@
   <a href="https://robotframework.org/" target="_blank"> <img src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/702e61576ed30f6975fd86c11bd2a46402311868.png" alt="Robot Framework" width="50" height="50" mix-blend-mode="multiply"/> </a>
   <br>
   <br>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomolter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigomolter&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomolter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigomolter&layout=compact&langs_count=8&theme=vision-friendly-dark&locale=pt-br"/>
   
   <h3 align="center">Vamos conversar! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" align="center" width="25" height="25" /></h3>
   <div>
