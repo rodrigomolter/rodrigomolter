@@ -1,5 +1,7 @@
-<img align="right" src="https://img.shields.io/badge/Check%20in%20English-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" href="https://github.com/rodrigomolter/rodrigomolter/blob/main/PT-BR/README.md">
-<img align="left" src="https://komarev.com/ghpvc/?username=rodrigomolter&label=Profile%20views&color=777711&style=flat" alt="rodrigomolter"/>
+<div>
+  <a href="https://github.com/rodrigomolter"> <img src="https://img.shields.io/badge/Also%20in%20English-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" align="right"> </a>
+  <img align="left" src="https://komarev.com/ghpvc/?username=rodrigomolter&label=Profile%20views&color=777711&style=flat" alt="rodrigomolter"/>
+</div>
 
 <div align="center">
   <h1>Olá, Mundo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /></h1>
