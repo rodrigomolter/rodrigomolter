@@ -1,6 +1,6 @@
 <div>
-  <a href="https://github.com/rodrigomolter"> <img src="https://img.shields.io/badge/Also%20in%20English-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" align="right"> </a>
-  <img align="left" src="https://komarev.com/ghpvc/?username=rodrigomolter&label=Profile%20views&color=777711&style=flat" alt="rodrigomolter"/>
+  <a href="https://github.com/rodrigomolter"> <img src="https://img.shields.io/badge/Also%20in%20English-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" align="right" alt="Also in English"> </a>
+  <img align="left" src="https://komarev.com/ghpvc/?username=rodrigomolter&label=Visitas%20ao%20perfil&color=yellow&style=flat-square" alt="rodrigo molter profile views"/>
 </div>
 
 <div align="center">
