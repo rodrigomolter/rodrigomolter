@@ -9,7 +9,7 @@
 </div>
 <div>
   <img align="left" src="https://github.com/rodrigomolter/rodrigomolter/assets/57466763/7e21bd81-3126-4da4-a6e7-23fcf0399443" width="150px"> 
-  <p>Eu sou o <strong>Rodrigo</strong>, um profissional apaixonado pela jornada da qualidade de software! Com uma sólida experiência em desenvolvimento, eu recentemente abracei a empolgante transição para a área de Garantia da Qualidade.</p>
+  <p>Oi, eu sou o <strong>Rodrigo</strong>, um profissional apaixonado pela jornada da qualidade de software! Com uma sólida experiência em desenvolvimento, eu recentemente abracei a empolgante transição para a área de Garantia da Qualidade.</p>
   <p>
     Com experiência em automação de testes e familiaridade com metodologias ágeis, estou pronto para enfrentar desafios e crescer junto com a equipe. Se você está buscando um profissional comprometido e apaixonado pelo aprendizado contínuo, pode contar comigo!
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" align="center"/>
