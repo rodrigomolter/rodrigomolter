@@ -23,7 +23,9 @@
   <a href="https://github.com/rodrigomolter" target="_blank">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,postman,selenium,cypress&theme=light" />
   </a>
+  <!--
   <a href="https://robotframework.org/" target="_blank"> <img src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/702e61576ed30f6975fd86c11bd2a46402311868.png" alt="Robot Framework" width="50" height="50" mix-blend-mode="multiply"/> </a>
+  -->
   <br>
   <br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomolter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
