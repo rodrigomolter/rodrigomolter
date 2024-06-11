@@ -21,7 +21,12 @@
 <div align="center">
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" align="center"/> Tech Stack </h2></h3>
   <a href="https://github.com/rodrigomolter" target="_blank">
-    <img title="Java, Javascript, HTML, CSS, Postman, Selenium and Cypress" alt="Java, Javascript, HTML, CSS, Postman, Selenium and Cypress" src="https://skillicons.dev/icons?i=java,js,html,css,postman,selenium,cypress&theme=light" />
+    <img title="Java, Javascript, Postman and Cypress" alt="Java, Javascript, Postman and Cypress" src="https://skillicons.dev/icons?i=java,js,postman,cypress&theme=light" />
+  </a>
+
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Learning </h2></h3>
+  <a href="https://github.com/rodrigomolter" target="_blank">
+    <img title="Python, Selenium and Docker" alt="Python, Selenium and Docker" src="https://skillicons.dev/icons?i=python,selenium,docker&theme=light" />
   </a>
   <!--
   <a href="https://robotframework.org/" target="_blank"> <img src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/702e61576ed30f6975fd86c11bd2a46402311868.png" alt="Robot Framework" width="50" height="50" mix-blend-mode="multiply"/> </a>
