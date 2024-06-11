@@ -9,9 +9,9 @@
 </div>
 <div>
   <img align="left" src="https://github.com/rodrigomolter/rodrigomolter/assets/57466763/7e21bd81-3126-4da4-a6e7-23fcf0399443" width="150px"> 
-  <p>Oi, eu sou o <strong>Rodrigo</strong>, um profissional apaixonado pela jornada da qualidade de software! Com uma sólida experiência em desenvolvimento, eu recentemente abracei a empolgante transição para a área de Garantia da Qualidade.</p>
+  <p>Oi, eu sou o <strong>Rodrigo</strong>, um profissional apaixonado pela jornada da qualidade de software! Com experiência em desenvolvimento de software, eu iniciei minha transição para a área de qualidade de software.</p>
   <p>
-    Com experiência em automação de testes e familiaridade com metodologias ágeis, estou pronto para enfrentar desafios e crescer junto com a equipe. Se você está buscando um profissional comprometido e apaixonado pelo aprendizado contínuo, pode contar comigo!
+    Com conhecimento em automação de testes e vivência com metodologias ágeis, estou pronto para enfrentar desafios e crescer junto com a equipe. Se você está buscando um profissional comprometido e apaixonado pelo aprendizado contínuo, pode contar comigo!
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" align="center"/>
   </p>
 </div>
@@ -19,11 +19,15 @@
 ##
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" align="center"/> Conhecimentos </h2></h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" align="center"/> Tech Stack </h2></h3>
   <a href="https://github.com/rodrigomolter" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,git,postman,selenium,cypress&theme=light" />
+    <img title="Java, Javascript, Postman and Cypress" alt="Java, Javascript, Postman and Cypress" src="https://skillicons.dev/icons?i=java,js,postman,cypress&theme=light" />
   </a>
-  <a href="https://robotframework.org/" target="_blank"> <img src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/702e61576ed30f6975fd86c11bd2a46402311868.png" alt="Robot Framework" width="50" height="50" mix-blend-mode="multiply"/> </a>
+
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Aprendendo </h2></h3>
+  <a href="https://github.com/rodrigomolter" target="_blank">
+    <img title="Python, Selenium and Docker" alt="Python, Selenium and Docker" src="https://skillicons.dev/icons?i=python,selenium,docker&theme=light" />
+  </a>
   <br>
   <br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomolter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br"/>
