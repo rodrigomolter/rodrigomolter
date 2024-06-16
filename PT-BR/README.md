@@ -21,13 +21,13 @@
 <div align="center">
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" align="center"/> Tech Stack </h2></h3>
   <a href="https://github.com/rodrigomolter" target="_blank">
-    <img title="Javascript, NodeJS, Postman and Cypress" alt="Javascript, NodeJS, Postman and Cypress" src="https://skillicons.dev/icons?i=js,nodejs,postman,cypress&theme=light" />
+    <img title="Javascript, NodeJS, Postman e Cypress" alt="Javascript, NodeJS, Postman e Cypress" src="https://skillicons.dev/icons?i=js,nodejs,postman,cypress&theme=light" />
   </a>
   <p><i>Javascript, NodeJS, Postman e Cypress</i></p>
 
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Estudando </h2></h3>
   <a href="https://github.com/rodrigomolter" target="_blank">
-    <img title="Python, Selenium and Docker" alt="Python, Selenium and Docker" src="https://skillicons.dev/icons?i=python,selenium,docker&theme=light" />
+    <img title="Python, Selenium e Docker" alt="Python, Selenium e Docker" src="https://skillicons.dev/icons?i=python,selenium,docker&theme=light" />
   </a>
     <p><i>Python, Selenium e Docker</i></p>
   <br>
