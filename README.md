@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/rodrigomolter"> <img src="https://img.shields.io/badge/Also%20in%20English-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" align="right" alt="Also in English"> </a>
+  <a href="/README.EN.md"> <img src="https://img.shields.io/badge/Also%20in%20English-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" align="right" alt="Also in English"> </a>
   <img align="left" src="https://komarev.com/ghpvc/?username=rodrigomolter&label=Visitas%20ao%20perfil&color=yellow&style=flat-square" alt="rodrigo molter profile views"/>
 </div>
 <br>
@@ -14,6 +14,12 @@
     Com conhecimento em automação de testes e vivência com metodologias ágeis, estou pronto para enfrentar desafios e crescer junto com a equipe. Se você está buscando um profissional comprometido e apaixonado pelo aprendizado contínuo, pode contar comigo!
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" align="center"/>
   </p>
+</div>
+<div align="center">
+<br><br>
+  <a>
+    <img href="https://github.com/rodrigomolter/portfolio" src="https://img.shields.io/badge/CONFIRA_MEU_PORTF%C3%93LIO-yellow?style=for-the-badge">
+  </a>
 </div>
 
 ##

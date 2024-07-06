@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/rodrigomolter/rodrigomolter/blob/main/PT-BR/README.md"> <img src="https://img.shields.io/badge/Confira%20em%20Portugues-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" align="right"> </a>
+  <a href="/"> <img src="https://img.shields.io/badge/Confira%20em%20Portugues-F7ED1F?style=for-the-badge&logo=googletranslate&logoColor=%23000000" align="right"> </a>
   <img align="left" src="https://komarev.com/ghpvc/?username=rodrigomolter&label=Profile%20views&color=yellow&style=flat-square" alt="rodrigomolter"/>
 </div>
 <br>
