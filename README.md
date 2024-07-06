@@ -17,8 +17,8 @@
 </div>
 <div align="center">
 <br><br>
-  <a>
-    <img href="https://github.com/rodrigomolter/portfolio" src="https://img.shields.io/badge/CONFIRA_MEU_PORTF%C3%93LIO-yellow?style=for-the-badge">
+  <a href="https://github.com/rodrigomolter/portfolio">
+    <img src="https://img.shields.io/badge/CONFIRA_MEU_PORTF%C3%93LIO-yellow?style=for-the-badge">
   </a>
 </div>
 
