@@ -19,20 +19,41 @@
 ##
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" align="center"/> Tech Stack </h2></h3>
-  <a href="https://github.com/rodrigomolter" target="_blank">
-    <img title="Javascript, NodeJS, Postman and Cypress" alt="Javascript, NodeJS, Postman and Cypress" src="https://skillicons.dev/icons?i=js,nodejs,postman,cypress&theme=light" />
-  </a>
-  <p><i>Javascript, NodeJS, Postman and Cypress</i></p>
-
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Learning </h2></h3>
-  <a href="https://github.com/rodrigomolter" target="_blank">
-    <img title="Python, Selenium and Docker" alt="Python, Selenium and Docker" src="https://skillicons.dev/icons?i=python,selenium,docker&theme=light" />
-  </a>
-    <p><i>Python, Selenium and Docker</i></p>
-  <!--
-  <a href="https://robotframework.org/" target="_blank"> <img src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/702e61576ed30f6975fd86c11bd2a46402311868.png" alt="Robot Framework" width="50" height="50" mix-blend-mode="multiply"/> </a>
-  -->
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" align="center"/> Tech Stack</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js&theme=light" alt="Javascript" title="Javascript"><br>Javascript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Docker" title="NodeJS"><br>NodeJS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" title="Python"><br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" title="Postman"><br>Postman
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress" title="Cypress"><br>Cypress
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=selenium&theme=light" alt="Selenium" title="Selenium"><br>Selenium
+      </td>
+  </table>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Learning </h3>
+    <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker"><br>Docker
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins" title="Jenkins"><br>Jenkins
+      </td>
+    </tr>
+  </table>
   <br>
   <br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomolter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
