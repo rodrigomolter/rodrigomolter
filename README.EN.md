@@ -14,6 +14,14 @@
     With experience in test automation and familiarity with agile methodologies, I am ready to tackle challenges and grow alongside your team. If you're seeking a committed professional passionate about continuous learning, I'm ready to contribute! 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" align="center"/>
   </p>
+  <div align="center">  
+    <h3 align="center">Available to chat! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" align="center" width="25" height="25" /></h3>
+    <div>
+      <a href="https://www.linkedin.com/in/rodrigo-molter/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://wa.me/+5551998832787" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+      <a href="mailto:rodrigo.molter@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    </div>
+  </div>
 </div>
 
 ##
@@ -57,12 +65,4 @@
   <br>
   <br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomolter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigomolter&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-  
-  <h3 align="center">Available to chat! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" align="center" width="25" height="25" /></h3>
-  <div>
-    <a href="https://www.linkedin.com/in/rodrigo-molter/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://wa.me/+5551998832787" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="mailto:rodrigo.molter@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </div>
 </div>
