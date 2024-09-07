@@ -70,6 +70,9 @@
       <td align="center">
         <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="Typescript" title="Typescript"><br>Typescript
       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest" title="Jest"><br>Jest
+      </td>
     </tr>
   </table>
   <br>
