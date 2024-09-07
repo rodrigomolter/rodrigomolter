@@ -28,16 +28,19 @@
 
 <div align="center">
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" align="center"/> Tech Stack</h3>
-  <table align="center">
+    <table align="center">
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=js&theme=light" alt="Javascript" title="Javascript"><br>Javascript
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Docker" title="NodeJS"><br>NodeJS
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="NodeJS" title="NodeJS"><br>NodeJS
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" title="Python"><br>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker"><br>Docker
       </td>
     </tr>
     <tr>
@@ -50,15 +53,18 @@
       <td align="center">
         <img src="https://skillicons.dev/icons?i=selenium&theme=light" alt="Selenium" title="Selenium"><br>Selenium
       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions&theme=light" alt="Github Actions" title="Github Actions"><br>Github Actions
+      </td>
   </table>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Learning </h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Learning </h2></h3>
     <table align="center">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker"><br>Docker
+        <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React"><br>React
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins" title="Jenkins"><br>Jenkins
+        <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="Typescript" title="Typescript"><br>Typescript
       </td>
     </tr>
   </table>
