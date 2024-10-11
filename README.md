@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <br><br>
-  <a href="https://github.com/rodrigomolter/portfolio">
+  <a href="https://rodrigomolter.com/">
     <img src="https://img.shields.io/badge/CONFIRA_MEU_PORTF%C3%93LIO-yellow?style=for-the-badge">
   </a>
   <h3 align="center">Vamos conversar! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" align="center" width="25" height="25" /></h3>
@@ -61,20 +61,7 @@
         <img src="https://skillicons.dev/icons?i=githubactions&theme=light" alt="Github Actions" title="Github Actions"><br>Github Actions
       </td>
   </table>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> Estudando </h2></h3>
-    <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React"><br>React
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="Typescript" title="Typescript"><br>Typescript
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest" title="Jest"><br>Jest
-      </td>
-    </tr>
-  </table>
+ 
   <br>
   <br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigomolter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br"/>
